@@ -16,5 +16,4 @@ Technologies Used:
 HTML5
 CSS3
 Author:
-your name
 Kotturi Karthik 
